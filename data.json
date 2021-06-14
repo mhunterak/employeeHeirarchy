@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Larry",
+        "salary":100000,
+        "manager": null
+    },
+    {
+        "name":"Moe",
+        "salary":100000,
+        "manager": "Larry"
+    },
+    {
+        "name":"Curly",
+        "salary":100000,
+        "manager": "Moe"
+    },
+    {
+        "name":"Sue",
+        "salary":100000,
+        "manager": "Moe"
+    },
+    {
+        "name":"Carol",
+        "salary":100000,
+        "manager": "Larry"
+    }
+
+                
+]
